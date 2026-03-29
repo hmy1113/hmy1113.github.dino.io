@@ -1,1 +1,1 @@
-# https://hmy1113.github.dino.io
+# https://hmy1113.github.io/dino-quiz
